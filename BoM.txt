@@ -1,0 +1,19 @@
+1 - Pololu Micro Maestro 6-Channel USB Servo Controller : https://www.pololu.com/product/1350/
+
+1 - Mini USB 2.0 Cable
+
+1 - 5-6 Volt power supply at least 1.2Ah :  https://www.amazon.com/ALITOVE-100V-240V-Converter-5-5x2-1mm-Security/dp/B078RXZM4C/ref=pd_rhf_dp_s_crs_dp_rhf_k2p_0_3/130-1853139-4685021?_encoding=UTF8&pd_rd_i=B078RXZM4C&pd_rd_r=06460e37-1436-4200-b581-3b90349b9fe9&pd_rd_w=popmq&pd_rd_wg=wGUHf&pf_rd_p=c007ab35-5dcd-4a4d-9b98-d4717554c10e&pf_rd_r=081RE5DMFS23KNMEB35C&psc=1&refRID=081RE5DMFS23KNMEB35C
+
+2 - HiTec HS-805BB : https://www.towerhobbies.com/cgi-bin/wti0001p?&I=LXN610&utm_source=bing&utm_medium=cpc&utm_term=towerhobbies&utm_content=80882863074083&utm_campaign=B_DSA_NB_Desktop&utm_id=bi_cmp-329510800_adg-1294125302030127_ad-80882863074083_dat-2332682637821408:loc-190_dev-c_ext-_prd-{productid}&msclkid=e05f27766e901cd456337a4145e29976
+
+2 - 3/8 in. Brass Cap Nuts : https://www.homedepot.com/p/Commercial-Electric-3-8-in-Brass-Cap-Nuts-4-Pack-82065/306198187
+
+2 - #8-32 tpi x 1 in. Zinc-Plated Round-Head Combo Drive Machine Screw
+
+4 - #8 Zinc-Plated Flat Washer
+
+2 - #8-32 Zinc-Plated Steel Nylon Lock Nut
+
+2 - #4 x 1/2 in. Phillips Stainless Steel Pan-Head Drive Sheet Metal Screw (8 per Pack) : https://www.homedepot.com/p/Everbilt-4-x-1-2-in-Phillips-Stainless-Steel-Pan-Head-Drive-Sheet-Metal-Screw-8-per-Pack-800931/204275387
+
+1 - #64 Rubber Band
